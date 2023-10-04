@@ -9,7 +9,7 @@ st.header('st.write')
 st.write('Hello, *World!* :sunglasses:')
 
 #Example 2:
-st.write('Mishapisya new apps!! :grin:')
+st.write('Testing Streamlit features :grin:')
 
 #Example 3:
 df = pd.DataFrame({
